@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🍃 I'm currently learning and researching on zero-knowledge and model-driven development.
+- 🔭 I’m currently working on some close-source web development jobs and custom-ui, my side projects, you can find it in my repo, I'm gonna develop it into a comprehensive discussion about UI components in frontend.
+- 🍉 MyJam is my another working on side project, unlike custom-ui which is purely focus on frontend UI components, MyJam is a full-stack project.
+- 👯 I’m looking to collaborate on web apps that provide real values and respect employees. And if you're an open-source project, contact with me! I love open source projects and I have amazing frontend skills!
+- 💬 Ask me about frontend (web)
+- 📫 How to reach me: email: ricyzhang951@gmail.com , twitter: @MaryChao21, lens: @cuckooir and discord: ricy137

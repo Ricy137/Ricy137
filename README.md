@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🍃 I'm currently learning and researching on zero-knowledge and model-driven development.
-- 🔭 I’m currently working on some close-source web development jobs and custom-ui, my side projects, you can find it in my repo, I'm gonna develop it into a comprehensive discussion about UI components in frontend.
+- 🔭 I’m currently working on some close-source web development jobs and custom-ui, my side projects,I've pinned the repo, I'm gonna develop it into a comprehensive discussion about UI components in frontend.
 - 🍉 MyJam is my another working on side project, unlike custom-ui which is purely focus on frontend UI components, MyJam is a full-stack project.
 - 👯 I’m looking to collaborate on web apps that provide real values and respect employees. And if you're an open-source project, contact with me! I love open source projects and I have amazing frontend skills!
 - 💬 Ask me about frontend (web)

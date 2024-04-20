@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🍉 MyJam is my another working on side project, unlike custom-ui which is purely focus on frontend UI components, MyJam is a full-stack project.
 - 👯 I’m looking to collaborate on web apps that provide real values and respect employees. And if you're an open-source project, contact with me! I love open source projects and I have amazing frontend skills!
 - 💬 Ask me about frontend (web)
-- 📫 How to reach me: email: ricyzhang951@gmail.com , twitter: @MaryChao21, lens: @cuckooir and discord: ricy137
+- 📫 How to reach me: email: ricyzhang951@gmail.com , twitter: @MaryChao21 and lens: @cuckooir 

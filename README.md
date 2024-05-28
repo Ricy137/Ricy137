@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Frontend enthusiast 
+- ✨ I'm a Frontend enthusiast.
 - 🍃 I'm currently swiming in the frontend ocean, learning learning backend and trying to contribute to open source projects.
 - 🔭 Custom-ui repo is a discussion about UI components in frontend.
 - 💬 Ask me about frontend (web)

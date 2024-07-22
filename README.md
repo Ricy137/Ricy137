@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🍃 I'm currently swiming in the frontend ocean, learning learning backend and trying to contribute to open source projects.
 - 🔭 Custom-ui repo is a discussion about UI components in frontend.
 - 💬 Ask me about frontend (web)
-- 📫 How to reach me: email: ricyzhang951@gmail.com , twitter: @MaryChao21 and lens: @cuckooir 
+- 📫 How to reach me: email: ricyzhang951@gmail.com , lens(mainly active :): @cuckooir, farcaster: @ricy and twitter/X: @MaryChao21
